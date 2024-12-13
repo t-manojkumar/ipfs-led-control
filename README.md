@@ -1,5 +1,3 @@
-### 1. README.md
-```markdown
 # IoT LED Control with Raspberry Pi and IPFS
 
 This project demonstrates how to control an LED connected to a Raspberry Pi using IPFS pub-sub for decentralized messaging. 
