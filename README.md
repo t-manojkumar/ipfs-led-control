@@ -49,4 +49,3 @@ Feel free to submit pull requests or open issues for improvements and bug fixes.
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
-```
