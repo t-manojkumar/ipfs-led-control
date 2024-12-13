@@ -1,0 +1,2 @@
+ipfshttpclient==0.8.0
+RPi.GPIO==0.7.0
