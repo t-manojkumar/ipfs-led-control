@@ -16,7 +16,7 @@ This project demonstrates how to control an LED connected to a Raspberry Pi usin
 ## Setup Instructions
 1. Clone this repository:
    ```
-   git clone https://github.com/t-manojkumar/iot-led-control.git
+   git clone https://github.com/t-manojkumar/ipfs-led-control.git
    ```
 
 2. Install dependencies:
